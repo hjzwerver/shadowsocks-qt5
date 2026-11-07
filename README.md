@@ -1,6 +1,7 @@
 Shadowsocks-Qt5
 ===============
 Note: The original libQtShadowsocks no longer builds on current Linux (Botan 2.19). To compile this program yourself, first build and install the fixed library from https://github.com/hjzwerver/libQtShadowsocks. A ready-made .deb for Linux Mint 22 / Ubuntu 24.04 is available under Releases.
+
 **This project is no longer being maintained**
 
 [![Build Status](https://travis-ci.org/shadowsocks/shadowsocks-qt5.svg?branch=master)](https://travis-ci.org/shadowsocks/shadowsocks-qt5)
